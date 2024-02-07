@@ -1,8 +1,21 @@
-# React + Vite
+# Mini Visual Application V1 with React + Vite 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Kendimi geliştirmek adına yeni başlattığım React kampında her gün basitten zora doğru projeler yapıyorum.
 
-Currently, two official plugins are available:
+Bu süreçte kendimi geliştirmeye devam ediyorum. Bu projede bir görsel seçim uygulaması yaptım. Tıklayarak seçtiğimiz görsel ana görsel olarak geliyor.
+Her gün başka projeler ve challengelar yaparak kendimi geliştirmeye devam ediyorum.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+--------------------------------------------------------------------------------
+
+In order to improve myself, I do projects from simple to difficult every day in the React camp that I started recently.
+
+I continue to improve myself in this process. In this project, I made a visual selection application. By clicking, the image we select appears as the main image.
+I continue to improve myself by doing new projects and challenges every day.
+
+CANLI DEMO: https://react-mini-visual-app-v1.vercel.app/
+
+# Preview
+
+https://github.com/muratscgn/react-mini-visual-app-v2/assets/124501558/7c6c9abb-e587-4549-8334-daa1b199a32c
+
+
